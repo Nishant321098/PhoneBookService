@@ -15,7 +15,7 @@ This repository provides full source code of a phonebook web app, allowing CRUD 
 ### Source code:
 Clone the repository:
 ```bash
-git clone https://github.com/shreelekha/phonebook.git
+git clone https://github.com/Nishant/phonebook.git
 ```
 
 ### Run:
